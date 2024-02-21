@@ -1,8 +1,14 @@
-# TakudzwanasheSamuel.github.io
-AdventureReads|BookQuest
-"BookQuest: The Augmented Reality Library Experience"
+<div align="center">
 
- Proposal for the development of an innovative library application called "BookQuest: The Augmented Reality Library Experience." This application aims to revolutionize the way children engage with books by leveraging augmented reality (AR) technology and incorporating gamification elements to foster a love for reading..
+  <br />
+  <br />
+
+  <h2 align="center">BookQuest|AdventureReads</h2>
+
+ BookQuest|AdventureReads is a fully responsive library and education gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ "BookQuest: The Augmented Reality Library Experience"
+
+ Proposal for the development of an innovative library application called "BookQuest: The Augmented Reality Library Experience." This application aims to revolutionize the way children engage with books by leveraging augmented reality (AR) technology and incorporating gamification elements to foster a love for reading.
 
 ||||||||||
 "BookQuest" will be a mobile application available on iOS and Android devices. It will offer a virtual library experience, combining AR bookshelves, interactive reading features, and gamified interfaces to create an immersive and engaging platform for children.
@@ -26,5 +32,12 @@ h) Reading Analytics and Insights: "BookQuest" will generate valuable insights a
 
  "BookQuest: The Augmented Reality Library Experience" is an innovative application that combines AR technology, gamification, and community engagement to create an immersive and interactive reading experience for children. We believe this project has the potential to revolutionize the way children engage with books and cultivate a lifelong love for reading.
 
+  <a href="https://codingstella.github.io/Gaming-website/"><strong>➥ Live Demo</strong></a>
 
- 
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![Unigine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
