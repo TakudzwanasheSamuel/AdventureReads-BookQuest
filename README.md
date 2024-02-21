@@ -2,7 +2,7 @@
 AdventureReads|BookQuest
 "BookQuest: The Augmented Reality Library Experience"
 
- Proposal for the development of an innovative library application called "BookQuest: The Augmented Reality Library Experience." This application aims to revolutionize the way children engage with books by leveraging augmented reality (AR) technology and incorporating gamification elements to foster a love for reading.
+ Proposal for the development of an innovative library application called "BookQuest: The Augmented Reality Library Experience." This application aims to revolutionize the way children engage with books by leveraging augmented reality (AR) technology and incorporating gamification elements to foster a love for reading..
 
 ||||||||||
 "BookQuest" will be a mobile application available on iOS and Android devices. It will offer a virtual library experience, combining AR bookshelves, interactive reading features, and gamified interfaces to create an immersive and engaging platform for children.
