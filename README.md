@@ -32,12 +32,10 @@ h) Reading Analytics and Insights: "BookQuest" will generate valuable insights a
 
  "BookQuest: The Augmented Reality Library Experience" is an innovative application that combines AR technology, gamification, and community engagement to create an immersive and interactive reading experience for children. We believe this project has the potential to revolutionize the way children engage with books and cultivate a lifelong love for reading.
 
-  <a href="https://codingstella.github.io/Gaming-website/"><strong>➥ Live Demo</strong></a>
+  <a href=""><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![Unigine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+)
